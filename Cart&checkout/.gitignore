@@ -1,0 +1,11 @@
+# Ignore Visual Studio settings and temp files
+.vs/
+*.user
+*.suo
+*.dbmdl
+*.bak
+*.cache
+bin/
+obj/
+packages/
+*.log
